@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SourBraix
+- 👀 I’m interested in creating projects, no matter how miniscule, in order to improve upon my understanding of coding
+- 🌱 I’m currently learning C++ and Python.
